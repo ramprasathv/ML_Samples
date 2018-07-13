@@ -1,0 +1,3 @@
+Sample ML programs using Python + SciKit with NumPy and SciPy
+
+1. solv_linalg.py: Solves any linear equation
