@@ -1,3 +1,5 @@
 Sample ML programs using Python + SciKit with NumPy and SciPy
 
 1. solv_linalg.py: Solves any linear equation
+
+2. ml_algos_1.py: Simple Spot Check by trying with multiple ML models
